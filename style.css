@@ -1,0 +1,40 @@
+.honda-header-bg{
+background-color: #264653;}
+.font-color{
+    color: white;
+
+}
+.h3-txt{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+
+}
+.dd-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.first-image{
+    width: 552px;
+height: 447px;
+}
+.m-lh{
+line-height: 24px;
+font-size: 16px;
+font-weight: 300;
+}
+.hw{
+    width: 650px;
+
+}
+.gray-scale{
+  filter: grayscale(100%);
+}
+.clients-img{
+    width: 149px;
+height: 149px;
+border-radius: 75%;
+
+}
